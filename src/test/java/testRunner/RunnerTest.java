@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features=".//Features/",
+@CucumberOptions(features=".//Features/Login.feature",
 glue="stepDefinations",
 dryRun=false,
 monochrome=true,

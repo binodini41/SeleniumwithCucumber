@@ -1,393 +1,50 @@
-2020-03-09 16:09:04,052 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:09:07,575 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:09:07,576 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:09:07,882 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:09:25,283 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-09 16:09:29,344 - nonComerce -INFO -***************Adding customer data************
-2020-03-09 16:09:48,189 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:09:50,370 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:09:50,371 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:09:50,739 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:10:15,208 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:10:15,852 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:10:15,853 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:10:16,165 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:10:37,578 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:10:40,084 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:10:40,085 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:10:40,387 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:10:55,826 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:10:58,304 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:10:58,304 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:10:58,615 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:11:15,707 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:11:19,201 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:11:19,202 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:11:19,572 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:47:19,778 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:47:23,285 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:47:23,286 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:47:23,606 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:47:39,195 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-09 16:47:43,345 - nonComerce -INFO -***************Adding customer data************
-2020-03-09 16:48:01,681 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:48:03,387 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:48:03,388 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:48:03,718 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 16:48:30,194 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 16:48:32,705 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 16:48:32,706 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 16:48:33,020 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:21:51,360 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:21:54,888 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:21:54,889 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:21:55,202 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:22:09,248 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-09 17:22:14,468 - nonComerce -INFO -***************Adding customer data************
-2020-03-09 17:22:34,279 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:22:36,824 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:22:36,825 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:22:37,147 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:25:03,177 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:25:05,035 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:25:05,036 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:25:05,372 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:25:22,132 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-09 17:25:26,325 - nonComerce -INFO -***************Adding customer data************
-2020-03-09 17:25:44,608 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:25:47,006 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:25:47,007 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:25:47,342 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:26:19,068 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:26:20,841 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:26:20,842 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:26:21,158 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:26:43,064 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:26:46,515 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:26:46,516 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:26:46,859 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:27:06,298 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:27:08,001 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:27:08,001 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:27:08,452 - nonComerce -INFO -User loggin to the application!!
-2020-03-09 17:27:25,434 - nonComerce -INFO -**************Browser launch*****************
-2020-03-09 17:27:26,083 - nonComerce -INFO -*****************URL launched*******************
-2020-03-09 17:27:26,084 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-09 17:27:26,399 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:40:47,045 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:40:48,978 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:40:48,979 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:40:49,300 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:41:05,220 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-10 17:41:09,302 - nonComerce -INFO -***************Adding customer data************
-2020-03-10 17:41:27,976 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:41:31,407 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:41:31,408 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:41:31,710 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:41:56,549 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:42:00,014 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:42:00,015 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:42:00,324 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:42:23,513 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:42:26,050 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:42:26,051 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:42:26,368 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:42:44,097 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:42:46,607 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:42:46,608 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:42:46,911 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:43:04,018 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:43:06,513 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:43:06,514 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:43:06,803 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:44:53,077 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:44:54,888 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:44:54,889 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:44:55,198 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:45:08,176 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-10 17:45:12,207 - nonComerce -INFO -***************Adding customer data************
-2020-03-10 17:45:30,847 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:45:32,424 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:45:32,425 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:45:32,730 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:45:58,441 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:46:01,123 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:46:01,123 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:46:01,449 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:46:25,618 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:46:28,150 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:46:28,152 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:46:28,460 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:46:45,173 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:46:47,679 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:46:47,680 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:46:48,074 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:47:06,777 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:47:09,294 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:47:09,295 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:47:09,592 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:53:09,107 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:53:11,693 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:53:11,694 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:53:11,999 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:53:26,409 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-10 17:53:30,776 - nonComerce -INFO -***************Adding customer data************
-2020-03-10 17:53:49,498 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:53:50,157 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:53:50,158 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:53:50,476 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:54:14,903 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:54:17,405 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:54:17,405 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:54:17,719 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:54:40,252 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:54:42,442 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:54:42,443 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:54:42,802 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:55:01,078 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:55:03,623 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:55:03,623 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:55:03,932 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:55:25,556 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:55:28,067 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:55:28,068 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:55:28,479 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:59:02,969 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:59:04,594 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:59:04,596 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:59:04,928 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 17:59:21,538 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-10 17:59:25,656 - nonComerce -INFO -***************Adding customer data************
-2020-03-10 17:59:44,511 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 17:59:47,012 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 17:59:47,012 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 17:59:47,314 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:00:09,980 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:00:11,618 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:00:11,619 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:00:11,955 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:00:39,631 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:00:42,138 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:00:42,139 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:00:42,442 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:01:01,829 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:01:04,318 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:01:04,318 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:01:04,626 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:01:20,952 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:01:23,502 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:01:23,503 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:01:23,825 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:47:24,362 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:47:26,477 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:47:26,478 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:47:27,032 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:47:44,517 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-10 18:47:48,600 - nonComerce -INFO -***************Adding customer data************
-2020-03-10 18:48:08,111 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:48:10,930 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:48:10,931 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:48:22,248 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:48:57,690 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:49:00,479 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:49:00,480 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:49:15,579 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:49:50,901 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:49:53,815 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:49:53,817 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:50:08,663 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:50:33,106 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:50:34,973 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:50:34,974 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:50:49,217 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:51:23,580 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:51:25,825 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:51:25,826 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-10 18:51:39,192 - nonComerce -INFO -User loggin to the application!!
-2020-03-10 18:53:13,701 - nonComerce -INFO -**************Browser launch*****************
-2020-03-10 18:53:16,702 - nonComerce -INFO -*****************URL launched*******************
-2020-03-10 18:53:16,703 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:07:02,853 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:07:06,457 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:07:06,458 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:07:18,380 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:07:51,538 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:07:54,017 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:07:54,021 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:08:02,561 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:08:27,324 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:08:31,074 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:08:31,075 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:08:42,890 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:09:17,092 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:09:18,609 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:09:18,610 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:09:18,753 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:09:37,735 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:09:41,871 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:09:41,872 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:09:55,200 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:10:27,418 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:10:32,101 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:10:32,102 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:10:48,735 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:11:42,596 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:11:44,671 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:11:44,672 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:11:44,991 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:12:01,001 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-11 16:12:05,190 - nonComerce -INFO -***************Adding customer data************
-2020-03-11 16:12:23,642 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:12:26,205 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:12:26,206 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:12:26,512 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:12:53,374 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:12:54,125 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:12:54,126 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:12:54,513 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:13:16,370 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:13:18,846 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:13:18,847 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:13:19,176 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:13:35,833 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:13:38,320 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:13:38,321 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:13:38,739 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:13:54,669 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:13:57,205 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:13:57,206 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:13:57,521 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:47:26,373 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:47:30,535 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:47:30,536 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:47:43,876 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:48:19,032 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:48:22,271 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:48:22,272 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:48:37,182 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:49:15,666 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:49:19,056 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:49:19,057 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:49:38,464 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:50:16,458 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:50:18,096 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:50:18,097 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:50:18,284 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:50:32,699 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:50:36,219 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:50:36,221 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:50:48,073 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 16:51:21,235 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 16:51:25,091 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 16:51:25,092 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-11 16:51:40,421 - nonComerce -INFO -User loggin to the application!!
-2020-03-11 18:25:28,019 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 18:25:40,054 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 18:25:58,668 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 18:26:31,766 - nonComerce -INFO -**************Browser launch*****************
-2020-03-11 18:26:32,703 - nonComerce -INFO -*****************URL launched*******************
-2020-03-11 18:26:32,703 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:07:28,392 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:07:30,415 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:07:30,417 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:07:30,734 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:07:52,000 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-17 16:07:56,248 - nonComerce -INFO -***************Adding customer data************
-2020-03-17 16:08:15,552 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:08:17,383 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:08:17,384 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:08:17,682 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:08:46,813 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:08:47,587 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:08:47,588 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:08:47,887 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:09:12,420 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:09:14,748 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:09:14,750 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:09:15,044 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:09:30,256 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:09:31,065 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:09:31,066 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:09:31,360 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:09:48,958 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:09:51,829 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:09:51,832 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:09:52,176 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:27:25,261 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:27:27,612 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:27:27,613 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:27:27,921 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:27:43,686 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-17 16:27:50,068 - nonComerce -INFO -***************Adding customer data************
-2020-03-17 16:28:09,813 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:28:10,628 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:28:10,629 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:28:10,926 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:28:35,569 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:28:36,485 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:28:36,487 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:28:36,833 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:29:01,167 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:29:01,985 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:29:01,992 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:29:02,293 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:29:17,450 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:29:19,762 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:29:19,763 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:29:20,046 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:29:37,971 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:29:40,882 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:29:40,883 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:29:41,170 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:31:09,135 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:31:11,559 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:31:11,564 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:31:11,943 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:31:25,798 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-17 16:31:31,018 - nonComerce -INFO -***************Adding customer data************
-2020-03-17 16:31:49,336 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:31:53,217 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:31:53,219 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:31:53,511 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:32:20,585 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:32:21,721 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:32:21,724 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:32:22,073 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:32:50,661 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:32:51,962 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:32:51,964 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:32:52,367 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:33:10,770 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:33:11,894 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:33:11,897 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:33:12,419 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:33:29,460 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:33:30,544 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:33:30,545 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:33:30,823 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:35:09,904 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:35:11,829 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:35:11,830 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:35:12,146 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:35:29,985 - nonComerce -INFO -**************!Adding new customer!******************
-2020-03-17 16:35:35,378 - nonComerce -INFO -***************Adding customer data************
-2020-03-17 16:35:53,275 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:35:56,289 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:35:56,290 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:35:56,583 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:36:26,167 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:36:27,395 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:36:27,396 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:36:27,685 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:36:50,228 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:36:55,475 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:36:55,480 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:36:55,779 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:37:11,193 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:37:11,954 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:37:11,955 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:37:12,234 - nonComerce -INFO -User loggin to the application!!
-2020-03-17 16:37:30,493 - nonComerce -INFO -**************Browser launch*****************
-2020-03-17 16:37:31,232 - nonComerce -INFO -*****************URL launched*******************
-2020-03-17 16:37:31,233 - nonComerce -INFO -**********User login to the application successfully!*************
-2020-03-17 16:37:31,518 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:05:51,871 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:05:54,573 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:05:54,575 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:05:54,726 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:06:16,014 - nonComerce -INFO -**************!Adding new customer!******************
+2020-06-16 15:06:20,698 - nonComerce -INFO -***************Adding customer data************
+2020-06-16 15:06:30,281 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:06:31,477 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:06:31,478 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:06:31,619 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:07:00,222 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:07:02,872 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:07:02,873 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:07:03,025 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:07:30,494 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:07:31,646 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:07:31,647 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:07:31,790 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:07:50,519 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:07:52,853 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:07:52,854 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:07:52,995 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:08:22,411 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:08:25,664 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:08:25,664 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:08:25,803 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:19:14,654 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:19:17,251 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:19:17,252 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:19:17,396 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:19:41,516 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:19:42,766 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:19:42,766 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:19:42,918 - nonComerce -INFO -User loggin to the application!!
+2020-06-16 15:20:03,742 - nonComerce -INFO -**************Browser launch*****************
+2020-06-16 15:20:04,947 - nonComerce -INFO -*****************URL launched*******************
+2020-06-16 15:20:04,947 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-06-16 15:20:05,101 - nonComerce -INFO -User loggin to the application!!
+2020-07-06 20:01:40,048 - nonComerce -INFO -**************Browser launch*****************
+2020-07-06 20:01:44,844 - nonComerce -INFO -*****************URL launched*******************
+2020-07-06 20:01:44,845 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-07-06 20:01:44,994 - nonComerce -INFO -User loggin to the application!!
+2020-07-06 20:02:08,470 - nonComerce -INFO -**************Browser launch*****************
+2020-07-06 20:02:12,644 - nonComerce -INFO -*****************URL launched*******************
+2020-07-06 20:02:12,644 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-07-06 20:02:12,792 - nonComerce -INFO -User loggin to the application!!
+2020-07-06 20:02:39,993 - nonComerce -INFO -**************Browser launch*****************
+2020-07-06 20:02:44,669 - nonComerce -INFO -*****************URL launched*******************
+2020-07-06 20:02:44,670 - nonComerce -INFO -**********User login to the application successfully!*************
+2020-07-06 20:02:44,806 - nonComerce -INFO -User loggin to the application!!

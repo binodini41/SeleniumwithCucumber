@@ -1,5 +1,4 @@
 Feature: Customers
-
 Background: Below are the common steps
 Given User launch the Chrome browser
 When User opens URL "https://admin-demo.nopcommerce.com/login"
