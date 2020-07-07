@@ -150,6 +150,7 @@ public void Clicked_on_the_customer_Item() throws InterruptedException
 	  Addcust.SelectGender("Female");
 	  Addcust.DateofBirth("5/5/1915");
 	  Addcust.SetCompanyName("Blue Jeans");
+	  Addcust.SetNewsLetter("Your store name");
 	  Addcust.customerRole("Administrator");
 	 // Addcust.SetManageVendor("Vendor 2");
 	  Thread.sleep(2000);
@@ -210,13 +211,13 @@ public void Clicked_on_the_customer_Item() throws InterruptedException
 	public void User_enter_the_user_FirstName()
 	{
 		searchcust = new SearchCustomerPage(driver);
-		searchcust.EnterFirstName("Demo");
+		searchcust.EnterFirstName("Victoria");
 	}
 
 	@When("User enter the user LastName")
 	public void User_enter_the_user_LastName()
 	{
-		searchcust.EnterLastName("Test");
+		searchcust.EnterLastName("Terces");
 	}
 	
 /*	@When("User enter the user FirstName and LastName")

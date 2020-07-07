@@ -33,6 +33,7 @@ public WebDriver Idriver;
 	By Gender=By.xpath("//input[@id='Gender_Female']");
 	By CompanyName=By.xpath("//input[@id='Company']");
 	By dob=By.xpath("//input[@id='DateOfBirth']");
+	By Newsletter=By.xpath("//div[@class='k-widget k-multiselect k-multiselect-clearable k-state-hover']");
 	By Customerrole= By.xpath("//div[@class='k-multiselect-wrap k-floatwrap']");
 
 	By ManageVendor =By.xpath("//select[@id='VendorId']");
@@ -101,6 +102,8 @@ public WebDriver Idriver;
 		
 	}
 	
+	
+	
 	public void customerRole(String role) throws InterruptedException{
 		if(!role.equals("Vendor"))
 		{
@@ -140,6 +143,13 @@ public WebDriver Idriver;
 	public void clickSave(){
 		
 		Idriver.findElement(SaveBtn).click();
+	}
+
+	
+
+	public void SetNewsLetter(String news) {
+		Idriver.findElement(Newsletter).sendKeys(news);
+		
 	}
 	
 }

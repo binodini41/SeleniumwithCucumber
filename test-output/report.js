@@ -1,4 +1,425 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("./Features/Login.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("./Features/Customers.feature");
+formatter.feature({
+  "name": "Customers",
+  "description": "",
+  "keyword": "Feature"
+});
+formatter.background({
+  "name": "Below are the common steps",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User launch the Chrome browser",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "Steps.User_launch_the_Chrome_browser()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User opens URL \"https://admin-demo.nopcommerce.com/login\"",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_opens_URL_(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enter Email as \"admin@yourstore.com\" and password as \"admin\"",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_enter_Email_as_and_password_as(String,String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Login",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.Click_on_Login()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User can see the dashboard",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_can_see_the_dashboard()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Add New Customers",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@Sanity"
+    }
+  ]
+});
+formatter.step({
+  "name": "User clicked on Customers menu",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_clicked_on_Customers_menu()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Clicked on the customer Item",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.Clicked_on_the_customer_Item()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Add new button",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.Click_on_Add_new_button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User can view add new customer page",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_can_view_add_new_customer_page()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User add customer info",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_add_customer_info()"
+});
+formatter.result({
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class\u003d\u0027k-widget k-multiselect k-multiselect-clearable k-state-hover\u0027]\"}\n  (Session info: chrome\u003d83.0.4103.116)\n  (Driver info: chromedriver\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform\u003dWindows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.13.0\u0027, revision: \u00272f0d292\u0027, time: \u00272018-06-25T15:24:21.231Z\u0027\nSystem info: host: \u0027KANINI-LTP-85\u0027, ip: \u002710.27.54.126\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_171\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\\Users\\BINODI~1.GIS\\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.116, webStorageEnabled: true}\nSession ID: 8a494ff99f80b9b5098d978c036d26e1\n*** Element info: {Using\u003dxpath, value\u003d//div[@class\u003d\u0027k-widget k-multiselect k-multiselect-clearable k-state-hover\u0027]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)\r\n\tat pageObjects.AddCustomer.SetNewsLetter(AddCustomer.java:151)\r\n\tat stepDefinations.Steps.User_add_customer_info(Steps.java:153)\r\n\tat ✽.User add customer info(./Features/Customers.feature:14)\r\n",
+  "status": "failed"
+});
+formatter.step({
+  "name": "Clicked on Save button",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.Clicked_on_Save_button()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "User can view confirmation message \"The new customer has been added successfully!\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_can_view_confirmation_message(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "Close the browser",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.Close_the_browser()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.background({
+  "name": "Below are the common steps",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User launch the Chrome browser",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "Steps.User_launch_the_Chrome_browser()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User opens URL \"https://admin-demo.nopcommerce.com/login\"",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_opens_URL_(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enter Email as \"admin@yourstore.com\" and password as \"admin\"",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_enter_Email_as_and_password_as(String,String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Login",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.Click_on_Login()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User can see the dashboard",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_can_see_the_dashboard()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Search customer by email",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@regression"
+    }
+  ]
+});
+formatter.step({
+  "name": "User click on customer menu",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_click_on_customer_menu()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User click on cutomer item",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_click_on_cutomer_item()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enter the customer email id",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_enter_the_customer_email_id()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Search button",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.Click_on_Search_button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User will get the email id in the search table",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_will_get_the_email_id_in_the_search_table()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Close the browser",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.Close_the_browser()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.background({
+  "name": "Below are the common steps",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User launch the Chrome browser",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "Steps.User_launch_the_Chrome_browser()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User opens URL \"https://admin-demo.nopcommerce.com/login\"",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_opens_URL_(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enter Email as \"admin@yourstore.com\" and password as \"admin\"",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_enter_Email_as_and_password_as(String,String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Login",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.Click_on_Login()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User can see the dashboard",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_can_see_the_dashboard()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Search customer by name",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@regression"
+    }
+  ]
+});
+formatter.step({
+  "name": "User click on customer menu",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.User_click_on_customer_menu()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User click on cutomer item",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_click_on_cutomer_item()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enter the user FirstName",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_enter_the_user_FirstName()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enter the user LastName",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.User_enter_the_user_LastName()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on search button",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.Click_on_search_button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User will get the Name in search table",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.User_will_get_the_Name_in_search_table()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Close the browser",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.Close_the_browser()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.uri("./Features/Login.feature");
 formatter.feature({
   "name": "Login",
   "description": "",
